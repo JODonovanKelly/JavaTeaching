@@ -1,6 +1,7 @@
 // CharacterProfile.java
 /*
 This programme outputs the given variables in an orderly way.
+By Jonathan O'Donovan Kelly
 */
 
 public class CharacterProfile {
